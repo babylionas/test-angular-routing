@@ -1,0 +1,11 @@
+nav {
+  background-color: blue;
+  color: white;
+  font-size: 5rem;
+  justify-content: center;
+  align-items: center;
+  text-align: center;
+
+  top: 0;
+  margin: 0;
+}
